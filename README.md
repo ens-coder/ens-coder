@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 # Data engineer
 
-Education:
-- [HEIG-VD](https://heig-vd.ch)
+None:
+- EPFL
 
 
 Langage programming:
