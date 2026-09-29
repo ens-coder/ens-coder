@@ -17,18 +17,17 @@ Here are some ideas to get you started:
 # Data engineer
 
 
-Education:
+# Education:
 - [HEIG-VD](https//heig-vd.ch)
 
-
-Langage programming:
+# Langage programming:
 - C
 - C++
 - Python
 - Java
 
 
-![image-heig-txt|400](/image_heig-vd_text.png)
+![image-heig-txt|200](/image_heig-vd_text.png)
 
 
 ```java
