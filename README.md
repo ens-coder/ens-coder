@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 Education:
-- ![HEIG-VD](https//heig-vd.ch)
+- [HEIG-VD](https//heig-vd.ch)
 
 
 Langage programming:
@@ -28,7 +28,7 @@ Langage programming:
 - Java
 
 
-![image-heig-txt](/image_heig-vd_text.png)
+![image-heig-txt|400](/image_heig-vd_text.png)
 
 
 ```java
