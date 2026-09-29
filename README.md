@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ens-coder/ens-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,7 +27,7 @@ Langage programming:
 - Java
 
 
-![image-heig-txt](./image_heig-vd_text.png)
+![image-heig-txt](/image_heig-vd_text.png)
 
 
 ```java
