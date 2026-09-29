@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Software engineer
+# SQL engineer
 
 Education:
 - [HEIG-VD](https://heig-vd.ch)
