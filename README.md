@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Software engineer
+
+Education:
+- [HEIG-VD](https://heig-vd.ch)
+
+
+Langage programming:
+- C
+- C++
+- Python
+- Java
+
+
+![image-heig-txt](./image_heig-vd_text.png)
+
+
+```java
+System.out.println("Hire me !");
+```
+
+
